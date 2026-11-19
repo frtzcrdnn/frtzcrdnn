@@ -17,26 +17,19 @@ Currently building a foundation across data systems, intelligent models, and har
 ### 🛠️ Current Tech Stack
 
 **Languages**
-- 🐍 Python
-- 📊 R
-- ⚡ C
-- ⚙️ C++
-- ☕ Java
+- 🐍 Python &middot; 📊 R
+- ⚡ C &middot; ⚙️ C++ &middot; ☕ Java
 - 🛢️ SQL
 
 **Web & Mobile**
-- 📄 HTML
-- 🎨 CSS
-- 📜 JavaScript
-- 🚀 Astro
+- 📄 HTML &middot; 🎨 CSS
+- 📜 JavaScript &middot; 🚀 Astro
 
 **Data Tools**
-- 🐼 Pandas
-- 🔢 NumPy
+- 🐼 Pandas &middot; 🔢 NumPy
 
 **Environment & Tooling**
-- 🔀 Git
-- 🐙 GitHub
+- 🔀 Git &middot; 🐙 GitHub
 - 🐧 Linux
 
 ---
@@ -45,7 +38,7 @@ Currently building a foundation across data systems, intelligent models, and har
 
 - 📚 Reading manhwas, manhuas, and novels  
 - 📸 Photography  
-- 🧩 Always exploring and picking up new hobbies  
+- 🧩 Still exploring and picking up new hobbies  
 
 ---
 
