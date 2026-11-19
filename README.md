@@ -1,6 +1,6 @@
 # halo, I'm **Fritz**!
-
-🎓 *BSCS Sophomore* @ **University of the Philippines Los Baños &middot; Batch '25** | 18  
+ 
+💫 *bscs '25* @ **uplb** | 18
 ---
 
 ### 📌 What I'm Exploring
@@ -19,7 +19,7 @@ Currently building a foundation across data systems, intelligent models, and har
 - ⚡ C &middot; ⚙️ C++ &middot; ☕ Java
 - 🛢️ SQL
 
-**Web & Mobile**
+**Web**
 - 📄 HTML &middot; 🎨 CSS
 - 📜 JavaScript &middot; 🚀 Astro
 
