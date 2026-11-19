@@ -1,6 +1,7 @@
 # halo, I'm **Fritz**!
 
-🎓 a *BSCS Sophomore* @ **University of the Philippines Los Baños (UPLB)**
+🎓 *BSCS Sophomore* @ **University of the Philippines Los Baños**
+
 🌱 **Batch '25** | 18  
 ---
 
