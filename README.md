@@ -2,7 +2,6 @@
 
 🎓 a *BSCS Sophomore* @ **University of the Philippines Los Baños (UPLB)**
 🌱 **Batch '25** | 18  
-
 ---
 
 ### 📌 What I'm Exploring
