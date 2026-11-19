@@ -43,4 +43,4 @@ Currently building a foundation across data systems, intelligent models, and har
 ### --- Connect With Me ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fritz-cerde%C3%B1a-04606b18b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](fccerdena@up.edu.ph)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fccerdena@up.edu.ph)
